@@ -309,6 +309,8 @@ form input,form select, form textarea {
     border-radius:5px;
     margin-bottom:15px;
     border: 1px solid #ccc;
+    background:white;
+    color:#787676;
 }
 
 form button{
